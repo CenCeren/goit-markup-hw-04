@@ -1,0 +1,181 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: block;
+    font-family:"Roboto", sans-serif ;
+}
+img {
+    display: block;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    width: 1140px;
+    height: 72px;
+}
+
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
+
+header .container {
+    display: flex;
+    width: 1158px;
+    margin: 0 auto;
+}
+.container {
+   
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+    margin-bottom: 8px;
+}
+
+.sectionfour .container {
+    margin-bottom: 8px;
+}
+
+.sutun {
+    display: flex;
+    align-items: center;
+
+}
+
+.logoone {
+    margin-right: 76px;
+}
+
+.link {
+    display: flex;
+    gap: 40px;
+}
+
+.title {
+    padding: 24px 0;
+}
+
+.address {
+    display: flex;
+    gap: 40px;
+}
+
+.adres {
+    display: flex;
+    gap: 40px;
+}
+
+.sectionone {
+    padding: 188px 0;
+
+}
+
+.karsilama {
+    max-width: 496px;
+}
+
+.button {
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    background-color: #4d5ae5;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.sectiontwo {
+    padding: 120px 0;
+}
+
+.details {
+    display: flex;
+    gap: 24px;
+}
+
+.sectiontwoli {
+    flex-basis: calc((100%-75px)/4);
+
+}
+
+.strategy {
+    margin-bottom: 8px;
+
+}
+
+.visually-hidden {
+   
+}
+
+.sectionthree {
+    padding: 120px 0;
+
+}
+
+.ourteam {
+    margin-bottom: 72px;
+}
+
+.sectionthreeul {
+    display: flex;
+    gap: 24px;
+}
+
+.threeli {
+    width: calc((100%-3*24px)/4);
+    border-radius: 0px 0px 4px 4px;
+}
+
+.nameandtitle {
+    padding: 32px 0;
+}
+
+.name {
+    text-align: center;
+    margin-bottom: 8px;
+}
+.detay {
+    text-align: center;
+}
+
+.sectionfour {
+    padding: 120px 0;
+}
+
+.portfolio {
+    margin-bottom: 72px;
+}
+
+.sectionfourul {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
+.sectionfourli {
+    width: calc((100%-3*24px)/4);
+
+}
+
+.sectionfourapp {
+    margin-bottom: 8px;
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+}
+
+.footer {
+    padding: 100px 0;
+
+}
+
+.flogoone {
+    margin-bottom: 16px;
+    display: inline-block;
+}
+
+.dipnot {
+    max-width: 264px;
+}
