@@ -316,7 +316,7 @@ header .container {
     max-width: 264px;
 }
 
-.footer-container {
+.footer-logo {
     display: flex;
     align-items: baseline;
 }
