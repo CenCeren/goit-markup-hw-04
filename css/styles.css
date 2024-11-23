@@ -267,7 +267,7 @@ header .container {
 }
 
 .sectionfourli:hover .details {
-    transform: translateY(0);
+    transform: translateY(0%);
 }
 
 .sectionfourapp {
