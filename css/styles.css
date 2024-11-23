@@ -225,6 +225,10 @@ header .container {
     fill: #f4f4fd;
 }
 
+.socialmedia-svg-footer {
+    fill: #f4f4fd;  
+}
+
 /* Sectionfour */
 .sectionfour {
     padding: 120px 0;
@@ -316,9 +320,13 @@ header .container {
     max-width: 264px;
 }
 
-.footer-logo {
+.footer-container {
     display: flex;
     align-items: baseline;
+}
+
+.footer-logo {
+    margin-right: 120px;
 }
 
 .footer-socialmedia-text {
@@ -329,3 +337,14 @@ header .container {
     color: #FFFFFF;
     margin-bottom: 16px;
 }
+
+.socialmediaiconul2 {
+    display: flex;
+    gap: 16px;
+}
+
+.socialmediaiconli2 {
+    width: 40px;
+    height: 40px;
+}
+
