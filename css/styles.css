@@ -91,6 +91,11 @@ header .container {
 .adres {
     display: flex;
     gap: 40px;
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.mail-one {
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .sectionone {
